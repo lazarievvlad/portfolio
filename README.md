@@ -1,6 +1,9 @@
 # Contact info
-gmail: lazarievvlad@gmail.com
-github: lazarievvlad
+```
+  gmail: lazarievvlad@gmail.com
+  skype: https://join.skype.com/youIQB3Py2bb
+  github: lazarievvlad
+```
 
 # portpolio
 
